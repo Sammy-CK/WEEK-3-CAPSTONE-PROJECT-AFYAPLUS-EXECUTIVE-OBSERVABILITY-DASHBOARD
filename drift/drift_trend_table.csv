@@ -1,0 +1,4 @@
+month,rouge_l_mean,latency_ms_mean,input_length_mean,drift_alert_count
+1,0.425,813.3,9.2,1
+2,0.3584,950.5,10.62,3
+3,0.3013,1096.5,9.8,3

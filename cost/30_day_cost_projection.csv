@@ -1,0 +1,7 @@
+model,feature,total_requests,total_cost_usd,avg_cost_per_request_usd
+gpt-4o,clinical_summaries,112500,183.1592,0.00162808
+gpt-4o,epidemic_alerts,187500,267.6096,0.00142725
+gpt-4o,triage_advisor,60000,151.585,0.00252642
+gpt-4o-mini,clinical_summaries,337500,33.239,9.849e-05
+gpt-4o-mini,epidemic_alerts,562500,46.735,8.308e-05
+gpt-4o-mini,triage_advisor,180000,27.3429,0.0001519

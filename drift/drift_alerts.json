@@ -1,0 +1,41 @@
+{
+  "first_drift_month": 1,
+  "first_drift_column": "rouge_l",
+  "alerts": [
+    {
+      "month": 1,
+      "column": "rouge_l",
+      "p_value": null
+    },
+    {
+      "month": 2,
+      "column": "input_length",
+      "p_value": null
+    },
+    {
+      "month": 2,
+      "column": "rouge_l",
+      "p_value": null
+    },
+    {
+      "month": 2,
+      "column": "latency_ms",
+      "p_value": null
+    },
+    {
+      "month": 3,
+      "column": "input_length",
+      "p_value": null
+    },
+    {
+      "month": 3,
+      "column": "rouge_l",
+      "p_value": null
+    },
+    {
+      "month": 3,
+      "column": "latency_ms",
+      "p_value": null
+    }
+  ]
+}

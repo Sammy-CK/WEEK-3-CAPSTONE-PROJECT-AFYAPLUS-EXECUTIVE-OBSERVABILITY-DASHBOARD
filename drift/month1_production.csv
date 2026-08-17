@@ -1,0 +1,201 @@
+question,input_length,rouge_l,latency_ms,token_count
+Can I book an inpatient clinical appointment online?,9,0.3647,904.0,154
+What documents do I need for a standard clinical lab screening?,13,0.4448,1025.0,188
+Can I book an inpatient clinical appointment online?,6,0.3453,587.0,226
+Can I book an inpatient clinical appointment online?,10,0.4593,793.0,168
+How long does it take to process outpatient laboratory results?,10,0.3525,1093.0,448
+Can I book an inpatient clinical appointment online?,8,0.4266,887.0,225
+How long does it take to process outpatient laboratory results?,10,0.4334,705.0,215
+What documents do I need for a standard clinical lab screening?,11,0.5329,961.0,307
+How long does it take to process outpatient laboratory results?,13,0.3893,681.0,170
+How long does it take to process outpatient laboratory results?,9,0.4233,931.0,257
+Can I book an inpatient clinical appointment online?,4,0.5118,781.0,277
+Can I book an inpatient clinical appointment online?,7,0.3593,601.0,202
+How long does it take to process outpatient laboratory results?,11,0.4244,645.0,436
+How long does it take to process outpatient laboratory results?,7,0.3999,1000.0,229
+What documents do I need for a standard clinical lab screening?,10,0.3298,771.0,233
+What documents do I need for a standard clinical lab screening?,10,0.2582,793.0,361
+What documents do I need for a standard clinical lab screening?,10,0.4618,1022.0,241
+Can I book an inpatient clinical appointment online?,10,0.4039,667.0,320
+How long does it take to process outpatient laboratory results?,15,0.4236,802.0,277
+How long does it take to process outpatient laboratory results?,9,0.4319,783.0,231
+Can I book an inpatient clinical appointment online?,6,0.3872,796.0,205
+How long does it take to process outpatient laboratory results?,8,0.3772,813.0,169
+How long does it take to process outpatient laboratory results?,9,0.5102,482.0,263
+What documents do I need for a standard clinical lab screening?,13,0.4948,551.0,385
+How long does it take to process outpatient laboratory results?,9,0.3977,631.0,306
+What documents do I need for a standard clinical lab screening?,9,0.3534,1010.0,264
+What documents do I need for a standard clinical lab screening?,12,0.4963,887.0,248
+How long does it take to process outpatient laboratory results?,7,0.3885,859.0,318
+How long does it take to process outpatient laboratory results?,7,0.4628,771.0,185
+How long does it take to process outpatient laboratory results?,9,0.4627,853.0,329
+Can I book an inpatient clinical appointment online?,7,0.4896,670.0,410
+How long does it take to process outpatient laboratory results?,11,0.4556,763.0,424
+How long does it take to process outpatient laboratory results?,10,0.3449,911.0,164
+What documents do I need for a standard clinical lab screening?,10,0.3886,926.0,283
+What documents do I need for a standard clinical lab screening?,9,0.3355,613.0,447
+How long does it take to process outpatient laboratory results?,11,0.3432,1011.0,169
+What documents do I need for a standard clinical lab screening?,6,0.5218,825.0,372
+How long does it take to process outpatient laboratory results?,9,0.3873,848.0,310
+How long does it take to process outpatient laboratory results?,9,0.4862,814.0,411
+What documents do I need for a standard clinical lab screening?,11,0.3982,793.0,347
+Can I book an inpatient clinical appointment online?,8,0.3174,638.0,247
+How long does it take to process outpatient laboratory results?,11,0.4303,778.0,172
+Can I book an inpatient clinical appointment online?,8,0.4409,735.0,373
+What documents do I need for a standard clinical lab screening?,9,0.4318,683.0,416
+Can I book an inpatient clinical appointment online?,8,0.3178,923.0,250
+How long does it take to process outpatient laboratory results?,10,0.4354,918.0,370
+What documents do I need for a standard clinical lab screening?,14,0.4809,579.0,319
+Can I book an inpatient clinical appointment online?,5,0.3825,803.0,310
+Can I book an inpatient clinical appointment online?,9,0.3765,822.0,213
+Can I book an inpatient clinical appointment online?,6,0.3833,631.0,303
+Can I book an inpatient clinical appointment online?,6,0.3389,683.0,308
+Can I book an inpatient clinical appointment online?,10,0.363,1116.0,359
+How long does it take to process outpatient laboratory results?,10,0.4311,697.0,356
+Can I book an inpatient clinical appointment online?,9,0.3855,815.0,301
+Can I book an inpatient clinical appointment online?,13,0.4142,938.0,215
+What documents do I need for a standard clinical lab screening?,9,0.4179,1012.0,365
+Can I book an inpatient clinical appointment online?,6,0.5287,885.0,344
+Can I book an inpatient clinical appointment online?,6,0.4579,917.0,239
+Can I book an inpatient clinical appointment online?,9,0.3258,713.0,441
+How long does it take to process outpatient laboratory results?,9,0.4155,874.0,357
+Can I book an inpatient clinical appointment online?,8,0.3399,846.0,150
+How long does it take to process outpatient laboratory results?,11,0.4536,930.0,296
+What documents do I need for a standard clinical lab screening?,12,0.4476,792.0,370
+Can I book an inpatient clinical appointment online?,4,0.4458,825.0,314
+How long does it take to process outpatient laboratory results?,10,0.3434,670.0,376
+How long does it take to process outpatient laboratory results?,12,0.4176,882.0,259
+Can I book an inpatient clinical appointment online?,8,0.4218,913.0,392
+Can I book an inpatient clinical appointment online?,6,0.4258,745.0,236
+Can I book an inpatient clinical appointment online?,7,0.4014,827.0,193
+How long does it take to process outpatient laboratory results?,9,0.4953,693.0,413
+Can I book an inpatient clinical appointment online?,7,0.3936,974.0,321
+What documents do I need for a standard clinical lab screening?,11,0.4819,622.0,270
+Can I book an inpatient clinical appointment online?,8,0.4734,810.0,308
+What documents do I need for a standard clinical lab screening?,13,0.389,969.0,251
+What documents do I need for a standard clinical lab screening?,15,0.3982,747.0,162
+What documents do I need for a standard clinical lab screening?,13,0.5148,737.0,275
+How long does it take to process outpatient laboratory results?,9,0.4031,639.0,187
+How long does it take to process outpatient laboratory results?,8,0.3598,708.0,362
+Can I book an inpatient clinical appointment online?,7,0.4341,986.0,444
+What documents do I need for a standard clinical lab screening?,9,0.4791,774.0,346
+How long does it take to process outpatient laboratory results?,9,0.4605,665.0,354
+What documents do I need for a standard clinical lab screening?,11,0.43,859.0,225
+Can I book an inpatient clinical appointment online?,8,0.5673,723.0,152
+What documents do I need for a standard clinical lab screening?,9,0.3826,733.0,367
+What documents do I need for a standard clinical lab screening?,9,0.4913,970.0,240
+Can I book an inpatient clinical appointment online?,6,0.3701,857.0,415
+How long does it take to process outpatient laboratory results?,8,0.458,824.0,175
+Can I book an inpatient clinical appointment online?,4,0.5129,1016.0,277
+What documents do I need for a standard clinical lab screening?,9,0.3967,834.0,383
+What documents do I need for a standard clinical lab screening?,11,0.4595,1041.0,387
+Can I book an inpatient clinical appointment online?,7,0.3721,634.0,421
+Can I book an inpatient clinical appointment online?,6,0.418,1015.0,312
+How long does it take to process outpatient laboratory results?,8,0.4334,798.0,408
+How long does it take to process outpatient laboratory results?,12,0.5716,736.0,430
+How long does it take to process outpatient laboratory results?,9,0.4826,882.0,231
+Can I book an inpatient clinical appointment online?,11,0.455,757.0,393
+How long does it take to process outpatient laboratory results?,11,0.4865,898.0,282
+What documents do I need for a standard clinical lab screening?,12,0.484,940.0,291
+Can I book an inpatient clinical appointment online?,10,0.4589,780.0,398
+Can I book an inpatient clinical appointment online?,8,0.4924,702.0,272
+How long does it take to process outpatient laboratory results?,10,0.3964,803.0,375
+What documents do I need for a standard clinical lab screening?,13,0.4315,806.0,296
+What documents do I need for a standard clinical lab screening?,8,0.4648,877.0,289
+How long does it take to process outpatient laboratory results?,14,0.4015,826.0,313
+Can I book an inpatient clinical appointment online?,8,0.5146,789.0,191
+What documents do I need for a standard clinical lab screening?,11,0.4565,822.0,227
+What documents do I need for a standard clinical lab screening?,10,0.4316,929.0,346
+Can I book an inpatient clinical appointment online?,5,0.428,716.0,228
+Can I book an inpatient clinical appointment online?,10,0.3286,733.0,259
+What documents do I need for a standard clinical lab screening?,11,0.5139,792.0,362
+How long does it take to process outpatient laboratory results?,8,0.5329,626.0,319
+Can I book an inpatient clinical appointment online?,3,0.4464,740.0,388
+How long does it take to process outpatient laboratory results?,7,0.4625,829.0,181
+What documents do I need for a standard clinical lab screening?,9,0.3432,905.0,365
+How long does it take to process outpatient laboratory results?,11,0.414,1022.0,449
+Can I book an inpatient clinical appointment online?,5,0.3285,717.0,160
+Can I book an inpatient clinical appointment online?,7,0.4346,771.0,344
+How long does it take to process outpatient laboratory results?,10,0.3449,973.0,153
+How long does it take to process outpatient laboratory results?,9,0.487,841.0,302
+How long does it take to process outpatient laboratory results?,10,0.4542,854.0,364
+Can I book an inpatient clinical appointment online?,9,0.4997,824.0,429
+Can I book an inpatient clinical appointment online?,9,0.4146,973.0,262
+How long does it take to process outpatient laboratory results?,8,0.5281,795.0,262
+How long does it take to process outpatient laboratory results?,7,0.4277,718.0,373
+How long does it take to process outpatient laboratory results?,11,0.3808,746.0,164
+How long does it take to process outpatient laboratory results?,6,0.3929,509.0,322
+Can I book an inpatient clinical appointment online?,4,0.4656,894.0,357
+Can I book an inpatient clinical appointment online?,8,0.362,794.0,234
+How long does it take to process outpatient laboratory results?,9,0.3505,980.0,215
+Can I book an inpatient clinical appointment online?,9,0.4067,803.0,423
+What documents do I need for a standard clinical lab screening?,11,0.2975,770.0,351
+Can I book an inpatient clinical appointment online?,6,0.3599,766.0,438
+Can I book an inpatient clinical appointment online?,11,0.4585,731.0,163
+What documents do I need for a standard clinical lab screening?,12,0.504,911.0,369
+What documents do I need for a standard clinical lab screening?,11,0.3812,884.0,386
+What documents do I need for a standard clinical lab screening?,11,0.4737,876.0,175
+How long does it take to process outpatient laboratory results?,12,0.3879,958.0,344
+How long does it take to process outpatient laboratory results?,10,0.5445,717.0,258
+How long does it take to process outpatient laboratory results?,13,0.4319,722.0,317
+How long does it take to process outpatient laboratory results?,9,0.4008,851.0,344
+How long does it take to process outpatient laboratory results?,11,0.3856,797.0,365
+How long does it take to process outpatient laboratory results?,14,0.5237,852.0,191
+How long does it take to process outpatient laboratory results?,10,0.4272,874.0,159
+Can I book an inpatient clinical appointment online?,5,0.4046,600.0,426
+What documents do I need for a standard clinical lab screening?,11,0.4588,742.0,329
+What documents do I need for a standard clinical lab screening?,14,0.3465,624.0,185
+Can I book an inpatient clinical appointment online?,8,0.4828,1002.0,170
+What documents do I need for a standard clinical lab screening?,10,0.4847,795.0,276
+What documents do I need for a standard clinical lab screening?,10,0.473,878.0,160
+Can I book an inpatient clinical appointment online?,4,0.5086,966.0,228
+What documents do I need for a standard clinical lab screening?,9,0.4437,859.0,214
+How long does it take to process outpatient laboratory results?,10,0.387,719.0,208
+Can I book an inpatient clinical appointment online?,7,0.4904,865.0,261
+How long does it take to process outpatient laboratory results?,9,0.4663,458.0,281
+How long does it take to process outpatient laboratory results?,12,0.3156,757.0,235
+Can I book an inpatient clinical appointment online?,5,0.3423,939.0,208
+What documents do I need for a standard clinical lab screening?,10,0.4408,794.0,309
+What documents do I need for a standard clinical lab screening?,11,0.4246,646.0,446
+What documents do I need for a standard clinical lab screening?,12,0.3904,613.0,309
+Can I book an inpatient clinical appointment online?,7,0.51,902.0,342
+How long does it take to process outpatient laboratory results?,9,0.399,761.0,251
+What documents do I need for a standard clinical lab screening?,15,0.4429,852.0,274
+What documents do I need for a standard clinical lab screening?,13,0.4343,769.0,304
+Can I book an inpatient clinical appointment online?,7,0.4157,796.0,211
+Can I book an inpatient clinical appointment online?,9,0.4231,888.0,171
+How long does it take to process outpatient laboratory results?,9,0.4247,560.0,422
+How long does it take to process outpatient laboratory results?,11,0.4408,920.0,339
+What documents do I need for a standard clinical lab screening?,5,0.5453,783.0,409
+Can I book an inpatient clinical appointment online?,10,0.3576,874.0,324
+What documents do I need for a standard clinical lab screening?,8,0.3826,1030.0,365
+How long does it take to process outpatient laboratory results?,9,0.433,904.0,204
+How long does it take to process outpatient laboratory results?,10,0.429,844.0,335
+Can I book an inpatient clinical appointment online?,12,0.4165,824.0,385
+Can I book an inpatient clinical appointment online?,10,0.4863,942.0,228
+How long does it take to process outpatient laboratory results?,11,0.3514,996.0,240
+Can I book an inpatient clinical appointment online?,5,0.4382,709.0,417
+Can I book an inpatient clinical appointment online?,7,0.4397,839.0,288
+Can I book an inpatient clinical appointment online?,8,0.5168,854.0,425
+How long does it take to process outpatient laboratory results?,9,0.4778,943.0,388
+How long does it take to process outpatient laboratory results?,7,0.4558,884.0,287
+How long does it take to process outpatient laboratory results?,9,0.5025,782.0,275
+What documents do I need for a standard clinical lab screening?,11,0.4096,802.0,292
+How long does it take to process outpatient laboratory results?,7,0.3336,991.0,274
+How long does it take to process outpatient laboratory results?,8,0.3605,542.0,441
+Can I book an inpatient clinical appointment online?,6,0.3406,997.0,344
+How long does it take to process outpatient laboratory results?,12,0.3787,1070.0,164
+How long does it take to process outpatient laboratory results?,11,0.4005,500.0,316
+What documents do I need for a standard clinical lab screening?,15,0.3366,603.0,399
+What documents do I need for a standard clinical lab screening?,13,0.5664,966.0,331
+How long does it take to process outpatient laboratory results?,11,0.4557,902.0,324
+How long does it take to process outpatient laboratory results?,11,0.4369,813.0,291
+Can I book an inpatient clinical appointment online?,7,0.3748,766.0,155
+Can I book an inpatient clinical appointment online?,4,0.4141,681.0,247
+What documents do I need for a standard clinical lab screening?,8,0.4308,967.0,273
+Can I book an inpatient clinical appointment online?,9,0.3258,681.0,358
+How long does it take to process outpatient laboratory results?,11,0.3611,773.0,434
+What documents do I need for a standard clinical lab screening?,12,0.3619,813.0,393
+Can I book an inpatient clinical appointment online?,5,0.3839,838.0,401
+How long does it take to process outpatient laboratory results?,6,0.4464,798.0,158
+What documents do I need for a standard clinical lab screening?,12,0.4334,964.0,300

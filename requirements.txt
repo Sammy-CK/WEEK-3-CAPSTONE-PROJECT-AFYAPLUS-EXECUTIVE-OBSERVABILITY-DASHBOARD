@@ -1,0 +1,15 @@
+python-dotenv
+pandas
+tabulate
+nltk
+rouge-score
+langchain-openai
+langchain-core
+tiktoken
+numpy<2.0
+pydantic>=2.7,<3
+evidently==0.4.28
+fastapi
+uvicorn
+prometheus-client
+fpdf2

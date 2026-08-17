@@ -1,0 +1,201 @@
+question,input_length,rouge_l,latency_ms,token_count
+I need to restructure an emergency chronic care plan.,14,0.2964,1015.0,301
+What documents do I need for a standard clinical lab screening?,6,0.1918,910.0,352
+Can I book an inpatient clinical appointment online?,8,0.3305,910.0,154
+Has the new MoH policy changed our clinical referral rules?,12,0.271,1118.0,175
+Has the new MoH policy changed our clinical referral rules?,14,0.3538,1068.0,404
+Can I book an inpatient clinical appointment online?,5,0.1709,1014.0,267
+Has the new MoH policy changed our clinical referral rules?,9,0.2408,1084.0,330
+How long does it take to process outpatient laboratory results?,10,0.2865,1022.0,247
+Has the new MoH policy changed our clinical referral rules?,10,0.3265,969.0,278
+I need to restructure an emergency chronic care plan.,13,0.2941,1102.0,220
+I need to restructure an emergency chronic care plan.,11,0.314,1214.0,199
+I need to restructure an emergency chronic care plan.,9,0.2633,1143.0,170
+Can I book an inpatient clinical appointment online?,4,0.3065,1096.0,375
+What documents do I need for a standard clinical lab screening?,10,0.2923,874.0,446
+Can I book an inpatient clinical appointment online?,6,0.3056,1119.0,217
+What documents do I need for a standard clinical lab screening?,7,0.3759,996.0,301
+Can I book an inpatient clinical appointment online?,10,0.3256,1022.0,362
+How long does it take to process outpatient laboratory results?,15,0.2284,1210.0,252
+How long does it take to process outpatient laboratory results?,13,0.2598,1267.0,426
+Can I book an inpatient clinical appointment online?,7,0.3173,1131.0,421
+Has the new MoH policy changed our clinical referral rules?,9,0.3486,1195.0,289
+How long does it take to process outpatient laboratory results?,4,0.3783,901.0,281
+My infant has a sudden rash and high fever - what are my triage options?,18,0.3676,969.0,301
+I need to restructure an emergency chronic care plan.,7,0.2337,1074.0,323
+What documents do I need for a standard clinical lab screening?,10,0.3468,1257.0,389
+What documents do I need for a standard clinical lab screening?,15,0.2663,1075.0,222
+How long does it take to process outpatient laboratory results?,4,0.2516,1216.0,353
+Has the new MoH policy changed our clinical referral rules?,14,0.2259,1029.0,337
+What documents do I need for a standard clinical lab screening?,10,0.3168,1003.0,352
+What documents do I need for a standard clinical lab screening?,12,0.2716,1098.0,285
+Has the new MoH policy changed our clinical referral rules?,11,0.3004,1048.0,213
+My infant has a sudden rash and high fever - what are my triage options?,14,0.2947,1056.0,338
+I need to restructure an emergency chronic care plan.,8,0.3959,1167.0,284
+Has the new MoH policy changed our clinical referral rules?,9,0.3418,1060.0,345
+I need to restructure an emergency chronic care plan.,12,0.3222,1087.0,340
+What documents do I need for a standard clinical lab screening?,12,0.2057,965.0,269
+My infant has a sudden rash and high fever - what are my triage options?,11,0.3086,1308.0,162
+Has the new MoH policy changed our clinical referral rules?,16,0.3383,1160.0,437
+Can I book an inpatient clinical appointment online?,3,0.2674,1005.0,263
+I need to restructure an emergency chronic care plan.,7,0.2899,1043.0,182
+I need to restructure an emergency chronic care plan.,3,0.3449,971.0,387
+I need to restructure an emergency chronic care plan.,9,0.4244,990.0,304
+I need to restructure an emergency chronic care plan.,3,0.2828,1232.0,359
+What documents do I need for a standard clinical lab screening?,16,0.2262,1160.0,221
+What documents do I need for a standard clinical lab screening?,9,0.2936,1417.0,169
+Can I book an inpatient clinical appointment online?,3,0.3152,1156.0,402
+What documents do I need for a standard clinical lab screening?,14,0.3059,1137.0,199
+How long does it take to process outpatient laboratory results?,8,0.3161,1059.0,425
+How long does it take to process outpatient laboratory results?,11,0.2778,1145.0,348
+My infant has a sudden rash and high fever - what are my triage options?,14,0.3676,1094.0,339
+I need to restructure an emergency chronic care plan.,3,0.3757,991.0,426
+My infant has a sudden rash and high fever - what are my triage options?,13,0.2643,1265.0,450
+I need to restructure an emergency chronic care plan.,3,0.4883,1227.0,229
+My infant has a sudden rash and high fever - what are my triage options?,15,0.2967,1134.0,200
+My infant has a sudden rash and high fever - what are my triage options?,16,0.3387,1167.0,358
+Can I book an inpatient clinical appointment online?,8,0.2882,1082.0,166
+I need to restructure an emergency chronic care plan.,8,0.368,1171.0,339
+How long does it take to process outpatient laboratory results?,3,0.3394,1123.0,377
+My infant has a sudden rash and high fever - what are my triage options?,14,0.2767,1235.0,270
+Can I book an inpatient clinical appointment online?,10,0.2536,1149.0,200
+I need to restructure an emergency chronic care plan.,6,0.2172,1025.0,338
+Has the new MoH policy changed our clinical referral rules?,12,0.3572,1162.0,333
+What documents do I need for a standard clinical lab screening?,13,0.331,1023.0,353
+Can I book an inpatient clinical appointment online?,9,0.348,1191.0,247
+What documents do I need for a standard clinical lab screening?,14,0.3425,1142.0,382
+What documents do I need for a standard clinical lab screening?,14,0.2984,994.0,258
+I need to restructure an emergency chronic care plan.,8,0.2553,1019.0,160
+What documents do I need for a standard clinical lab screening?,10,0.2525,1063.0,320
+How long does it take to process outpatient laboratory results?,4,0.3128,1100.0,214
+Has the new MoH policy changed our clinical referral rules?,7,0.3396,1213.0,255
+What documents do I need for a standard clinical lab screening?,6,0.2542,1008.0,433
+How long does it take to process outpatient laboratory results?,7,0.3498,1077.0,450
+How long does it take to process outpatient laboratory results?,9,0.1798,1176.0,269
+Can I book an inpatient clinical appointment online?,4,0.3036,1133.0,225
+Has the new MoH policy changed our clinical referral rules?,14,0.2215,738.0,151
+Can I book an inpatient clinical appointment online?,8,0.408,1249.0,224
+How long does it take to process outpatient laboratory results?,10,0.2705,1197.0,426
+Can I book an inpatient clinical appointment online?,5,0.3286,1161.0,239
+What documents do I need for a standard clinical lab screening?,14,0.4656,1147.0,163
+How long does it take to process outpatient laboratory results?,8,0.2985,888.0,157
+Can I book an inpatient clinical appointment online?,5,0.2754,1037.0,271
+Has the new MoH policy changed our clinical referral rules?,10,0.2507,1235.0,315
+What documents do I need for a standard clinical lab screening?,11,0.2994,1061.0,239
+Can I book an inpatient clinical appointment online?,8,0.3495,996.0,176
+How long does it take to process outpatient laboratory results?,8,0.2818,938.0,365
+Has the new MoH policy changed our clinical referral rules?,7,0.2714,1205.0,208
+I need to restructure an emergency chronic care plan.,9,0.3116,1202.0,182
+My infant has a sudden rash and high fever - what are my triage options?,14,0.3234,1088.0,379
+Can I book an inpatient clinical appointment online?,8,0.265,807.0,412
+Has the new MoH policy changed our clinical referral rules?,9,0.3854,1211.0,205
+My infant has a sudden rash and high fever - what are my triage options?,17,0.3742,1111.0,407
+How long does it take to process outpatient laboratory results?,10,0.2629,1062.0,172
+I need to restructure an emergency chronic care plan.,10,0.3722,1083.0,416
+Can I book an inpatient clinical appointment online?,6,0.3,1172.0,384
+I need to restructure an emergency chronic care plan.,4,0.1622,1034.0,165
+What documents do I need for a standard clinical lab screening?,7,0.2695,1082.0,395
+My infant has a sudden rash and high fever - what are my triage options?,13,0.3871,1139.0,368
+I need to restructure an emergency chronic care plan.,9,0.3373,963.0,205
+My infant has a sudden rash and high fever - what are my triage options?,18,0.2955,1180.0,377
+What documents do I need for a standard clinical lab screening?,7,0.2068,1198.0,191
+Can I book an inpatient clinical appointment online?,9,0.2459,996.0,225
+What documents do I need for a standard clinical lab screening?,14,0.2286,1297.0,214
+Can I book an inpatient clinical appointment online?,5,0.3383,1061.0,449
+Has the new MoH policy changed our clinical referral rules?,11,0.2674,1080.0,316
+My infant has a sudden rash and high fever - what are my triage options?,15,0.2399,1189.0,421
+Can I book an inpatient clinical appointment online?,6,0.2863,981.0,382
+Has the new MoH policy changed our clinical referral rules?,3,0.2885,1390.0,370
+What documents do I need for a standard clinical lab screening?,13,0.2988,1068.0,208
+I need to restructure an emergency chronic care plan.,9,0.3328,958.0,432
+I need to restructure an emergency chronic care plan.,12,0.3429,1186.0,260
+My infant has a sudden rash and high fever - what are my triage options?,16,0.3012,1181.0,381
+How long does it take to process outpatient laboratory results?,11,0.2788,1031.0,361
+Can I book an inpatient clinical appointment online?,8,0.3929,951.0,382
+My infant has a sudden rash and high fever - what are my triage options?,10,0.3099,1106.0,362
+I need to restructure an emergency chronic care plan.,9,0.3146,1073.0,198
+Can I book an inpatient clinical appointment online?,12,0.2039,1001.0,368
+Can I book an inpatient clinical appointment online?,7,0.2014,1079.0,280
+Can I book an inpatient clinical appointment online?,12,0.3013,1128.0,228
+I need to restructure an emergency chronic care plan.,5,0.263,1055.0,392
+What documents do I need for a standard clinical lab screening?,10,0.3769,1167.0,196
+What documents do I need for a standard clinical lab screening?,7,0.3148,1160.0,197
+My infant has a sudden rash and high fever - what are my triage options?,18,0.3948,978.0,199
+I need to restructure an emergency chronic care plan.,6,0.2245,1072.0,340
+How long does it take to process outpatient laboratory results?,11,0.3592,1091.0,434
+What documents do I need for a standard clinical lab screening?,10,0.3091,1000.0,450
+Has the new MoH policy changed our clinical referral rules?,16,0.2035,1122.0,437
+Can I book an inpatient clinical appointment online?,14,0.3004,1077.0,212
+My infant has a sudden rash and high fever - what are my triage options?,13,0.2892,1265.0,331
+I need to restructure an emergency chronic care plan.,3,0.392,929.0,366
+I need to restructure an emergency chronic care plan.,8,0.2742,1171.0,176
+Can I book an inpatient clinical appointment online?,3,0.3277,1343.0,309
+Can I book an inpatient clinical appointment online?,3,0.3114,1021.0,203
+Has the new MoH policy changed our clinical referral rules?,11,0.3011,1023.0,409
+How long does it take to process outpatient laboratory results?,11,0.4083,1077.0,229
+I need to restructure an emergency chronic care plan.,11,0.2224,985.0,396
+How long does it take to process outpatient laboratory results?,11,0.389,1143.0,205
+Can I book an inpatient clinical appointment online?,7,0.3,950.0,434
+Can I book an inpatient clinical appointment online?,9,0.3529,1046.0,208
+Can I book an inpatient clinical appointment online?,6,0.316,1048.0,443
+How long does it take to process outpatient laboratory results?,9,0.426,1070.0,369
+Has the new MoH policy changed our clinical referral rules?,8,0.2611,1189.0,435
+What documents do I need for a standard clinical lab screening?,10,0.261,1259.0,286
+What documents do I need for a standard clinical lab screening?,15,0.264,876.0,242
+Can I book an inpatient clinical appointment online?,11,0.2589,1195.0,308
+Can I book an inpatient clinical appointment online?,3,0.3536,955.0,329
+What documents do I need for a standard clinical lab screening?,13,0.3009,986.0,242
+How long does it take to process outpatient laboratory results?,8,0.3412,1113.0,439
+I need to restructure an emergency chronic care plan.,10,0.4186,912.0,355
+What documents do I need for a standard clinical lab screening?,15,0.3063,992.0,222
+I need to restructure an emergency chronic care plan.,5,0.2887,1211.0,165
+What documents do I need for a standard clinical lab screening?,10,0.3907,926.0,421
+How long does it take to process outpatient laboratory results?,9,0.2249,1144.0,342
+My infant has a sudden rash and high fever - what are my triage options?,17,0.2748,787.0,382
+Can I book an inpatient clinical appointment online?,8,0.3262,1149.0,230
+Can I book an inpatient clinical appointment online?,11,0.2357,1182.0,309
+I need to restructure an emergency chronic care plan.,12,0.1933,1138.0,316
+Has the new MoH policy changed our clinical referral rules?,8,0.2951,1142.0,193
+What documents do I need for a standard clinical lab screening?,9,0.2595,1104.0,229
+How long does it take to process outpatient laboratory results?,6,0.2349,1182.0,175
+I need to restructure an emergency chronic care plan.,5,0.34,1156.0,191
+Can I book an inpatient clinical appointment online?,3,0.2593,1243.0,376
+I need to restructure an emergency chronic care plan.,6,0.2721,1155.0,367
+My infant has a sudden rash and high fever - what are my triage options?,17,0.2849,1028.0,376
+My infant has a sudden rash and high fever - what are my triage options?,19,0.4043,1217.0,289
+How long does it take to process outpatient laboratory results?,10,0.2515,1000.0,412
+What documents do I need for a standard clinical lab screening?,12,0.3251,1268.0,326
+My infant has a sudden rash and high fever - what are my triage options?,16,0.2098,1226.0,206
+Can I book an inpatient clinical appointment online?,5,0.277,1130.0,399
+Has the new MoH policy changed our clinical referral rules?,15,0.4866,1173.0,307
+What documents do I need for a standard clinical lab screening?,10,0.3321,1207.0,262
+My infant has a sudden rash and high fever - what are my triage options?,14,0.4077,1128.0,178
+What documents do I need for a standard clinical lab screening?,12,0.34,1151.0,254
+Can I book an inpatient clinical appointment online?,10,0.263,1033.0,258
+How long does it take to process outpatient laboratory results?,6,0.3264,1193.0,280
+Can I book an inpatient clinical appointment online?,9,0.4005,1099.0,317
+What documents do I need for a standard clinical lab screening?,13,0.2345,1054.0,153
+My infant has a sudden rash and high fever - what are my triage options?,17,0.3509,1065.0,370
+How long does it take to process outpatient laboratory results?,9,0.2089,1057.0,216
+My infant has a sudden rash and high fever - what are my triage options?,17,0.3345,1160.0,422
+I need to restructure an emergency chronic care plan.,9,0.3004,1021.0,267
+Has the new MoH policy changed our clinical referral rules?,12,0.3253,1159.0,436
+I need to restructure an emergency chronic care plan.,7,0.1708,1232.0,331
+What documents do I need for a standard clinical lab screening?,9,0.2482,1183.0,353
+I need to restructure an emergency chronic care plan.,7,0.3636,1174.0,171
+My infant has a sudden rash and high fever - what are my triage options?,17,0.218,1245.0,159
+My infant has a sudden rash and high fever - what are my triage options?,15,0.2778,1117.0,189
+Can I book an inpatient clinical appointment online?,3,0.3245,976.0,444
+My infant has a sudden rash and high fever - what are my triage options?,10,0.2087,1234.0,443
+My infant has a sudden rash and high fever - what are my triage options?,13,0.392,1036.0,363
+Can I book an inpatient clinical appointment online?,3,0.233,1248.0,208
+My infant has a sudden rash and high fever - what are my triage options?,14,0.2671,1119.0,160
+Can I book an inpatient clinical appointment online?,9,0.367,1274.0,237
+Has the new MoH policy changed our clinical referral rules?,8,0.2204,1050.0,385
+I need to restructure an emergency chronic care plan.,9,0.2422,985.0,335
+What documents do I need for a standard clinical lab screening?,12,0.2971,1104.0,373
+What documents do I need for a standard clinical lab screening?,8,0.2862,989.0,274
+My infant has a sudden rash and high fever - what are my triage options?,17,0.3621,878.0,355
+Has the new MoH policy changed our clinical referral rules?,7,0.2102,1022.0,190
+My infant has a sudden rash and high fever - what are my triage options?,14,0.213,989.0,308
+I need to restructure an emergency chronic care plan.,5,0.3124,1108.0,323

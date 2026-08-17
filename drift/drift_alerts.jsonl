@@ -1,0 +1,8 @@
+{"event": "first_drift", "month": 1, "column": "rouge_l", "p_value": 0.029715}
+{"event": "drift_detected", "month": 1, "column": "rouge_l", "p_value": 0.029715}
+{"event": "drift_detected", "month": 2, "column": "input_length", "p_value": 0.000118}
+{"event": "drift_detected", "month": 2, "column": "rouge_l", "p_value": 0.0}
+{"event": "drift_detected", "month": 2, "column": "latency_ms", "p_value": 0.0}
+{"event": "drift_detected", "month": 3, "column": "input_length", "p_value": 0.000967}
+{"event": "drift_detected", "month": 3, "column": "rouge_l", "p_value": 0.0}
+{"event": "drift_detected", "month": 3, "column": "latency_ms", "p_value": 0.0}
