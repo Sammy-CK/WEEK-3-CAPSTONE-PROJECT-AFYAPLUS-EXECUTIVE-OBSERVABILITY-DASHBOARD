@@ -4,27 +4,26 @@ Week 3 capstone — clinical evaluation, drift detection, cost tracking, and a F
 
 ## What this project does
 
-| Phase | Folder | Output |
-|-------|--------|--------|
-| 1 — Evaluation | `evaluation/` | BLEU, ROUGE, F1, LLM judge, quality gates |
-| 2 — Drift | `drift/` | 3 monthly HTML reports, trend CSV, alert log |
-| 3 — Cost | `cost/` | 30-day projections, savings analysis |
-| 4 — Dashboard | `dashboard/` | FastAPI web console + Prometheus `/metrics` |
-| 5 — Summary | root | `executive_summary.pdf` |
+
+| Phase          | Folder        | Output                                       |
+| -------------- | ------------- | -------------------------------------------- |
+| 1 — Evaluation | `evaluation/` | BLEU, ROUGE, F1, LLM judge, quality gates    |
+| 2 — Drift      | `drift/`      | 3 monthly HTML reports, trend CSV, alert log |
+| 3 — Cost       | `cost/`       | 30-day projections, savings analysis         |
+| 4 — Dashboard  | `dashboard/`  | FastAPI web console + Prometheus `/metrics`  |
+| 5 — Summary    | root          | `executive_summary.pdf`                      |
+
+
+
 
 ## Setup
 
-Use your existing **`venv-ai`** from the AI workspace folder:
-
 ```powershell
-cd "Desktop\WORK\AI"
-venv-ai\Scripts\activate
-
+python -m venv venv
+venv\Scripts\activate
 cd Projects\WEEK-3-CAPSTONE-PROJECT-AFYAPLUS-EXECUTIVE-OBSERVABILITY-DASHBOARD
 pip install -r requirements.txt
 ```
-
-Optional — add your OpenAI key for live model evaluation:
 
 ```powershell
 copy .env.example .env
@@ -33,9 +32,11 @@ copy .env.example .env
 
 > **NLTK note:** `evaluator.py` auto-downloads `punkt` / `punkt_tab` tokenizers on first run. No manual step needed unless your network blocks downloads.
 
+
+
 ## Run everything (one command)
 
-From the project root with `venv-ai` activated:
+From the project root with `venv` activated:
 
 ```powershell
 python run_all.py
@@ -47,9 +48,11 @@ Then start the dashboard:
 uvicorn dashboard.app:app --reload --port 8000
 ```
 
-- Dashboard: http://127.0.0.1:8000  
-- Prometheus metrics: http://127.0.0.1:8000/metrics  
-- Health check: http://127.0.0.1:8000/health  
+- Dashboard: [http://127.0.0.1:8000](http://127.0.0.1:8000)  
+- Prometheus metrics: [http://127.0.0.1:8000/metrics](http://127.0.0.1:8000/metrics)  
+- Health check: [http://127.0.0.1:8000/health](http://127.0.0.1:8000/health)
+
+
 
 ## Run phases individually
 
@@ -61,6 +64,8 @@ python cost/run_cost_analysis.py
 python generate_executive_summary.py
 uvicorn dashboard.app:app --reload --port 8000
 ```
+
+
 
 ## Project structure
 
@@ -100,17 +105,24 @@ executive_summary.pdf
 run_all.py
 ```
 
+
+
 ## Quality gates
 
-| Metric | Minimum |
-|--------|---------|
-| BLEU-4 | 0.10 |
-| ROUGE-L | 0.25 |
-| Token F1 | 0.30 |
-| LLM Judge (all dims) | 3.0 |
+
+| Metric               | Minimum |
+| -------------------- | ------- |
+| BLEU-4               | 0.10    |
+| ROUGE-L              | 0.25    |
+| Token F1             | 0.30    |
+| LLM Judge (all dims) | 3.0     |
+
+
+
 
 ## Notes
 
 - **No API key?** Evaluation runs in offline demo mode and still produces all CSV outputs.
-- **Evidently:** Drift reports use Evidently AI (same as Week 3 lab).
+- **Evidently:** Drift reports use Evidently AI 
 - **Dependencies:** `numpy<2.0` and `pydantic>=2.7` are pinned so FastAPI and Evidently work together.
+
